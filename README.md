@@ -8,7 +8,7 @@ Comecei a estudar programação em dezembro de 2022. Desde então, tornou-se uma
 
 * 🌍  Moro em Boqueirão-PB
 * ✉️  Você pode entrar em contato comigo em [mtexter@hotmail.com](mailto:mtexter@hotmail.com)
-* 🧠  stou aprendendo React
+* 🧠  Estou aprendendo React
 * ⚡  Sou um execelente oponente no tenis de mesa
 
 ### Skills
